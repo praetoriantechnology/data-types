@@ -15,7 +15,8 @@
   "require": {
     "php": ">=8",
     "ext-bcmath": "*",
-    "ext-mbstring": "*"
+    "ext-mbstring": "*",
+    "ext-gmp": "*"
   },
   "autoload": {
     "psr-4": {
